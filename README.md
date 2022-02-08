@@ -23,7 +23,7 @@ e atualmente tenho me dedicado a me tornar um dev fullstack.
 
 - Almejo trabalhar fora do Brasil, para melhorar meu inglês, conhecer novas culturas, pessoas e ter novas experiências. 🌎
 
-- Meu principal passa tempo hoje é jogar Minecraft, amo explorar as infinitas possibilidas dentro do game usando command blocks. 🎮
+- Meu principal passa tempo atual é jogar Minecraft, amo explorar as infinitas possibilidas dentro do game usando command blocks. 🎮
 
 - Sou uma pessoa introvertida, mas apesar das dificultades venho trabalhando a cada dia no meu desenvolvimento pessoal. 🧠
 
