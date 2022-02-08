@@ -1,5 +1,13 @@
 ## Olá! Eu sou o Hamom👋
 
+Graduando em Análise e Desenvolvimento de Sistemas 👨‍💻
+
+Sempre em busca de novos desafios 😼
+
+Amante de Tecnologia e Programação ❤
+
+##
+
 <div align="center">
   <a href="https://github.com/hamomgs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamomgs&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
