@@ -1,15 +1,7 @@
-<h3 align="center">  <br>
+### Olá! Eu sou o Hamom👋
 
-Olá! Eu sou o Hamom👋
-  
-<br>
-
-</h3>
-
-```
 Estudante de Análise e Desenvolvimento de Sistemas pela UNICSUL - Universidade Cruzeiro do Sul, sou fascinado por tecnologia
 e atualmente tenho me dedicado a me tornar um dev fullstack.
-```
 
 ## Tecnologias que estou estudando atualmente 💻
 
@@ -29,13 +21,13 @@ e atualmente tenho me dedicado a me tornar um dev fullstack.
 
 ##
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/hamomgs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamomgs&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamomgs&layout=compact&langs_count=7&theme=onedark&"/>
 </div>
   
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Hamom-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Hamom-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> -->
 <!--   <img align="center" alt="Hamom-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
@@ -49,7 +41,7 @@ e atualmente tenho me dedicado a me tornar um dev fullstack.
 ##
 
   
-<div align="center">  
+<div>  
   <a href = "https://github.com/hamomgs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:hamomgomer947@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hamomgomer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
