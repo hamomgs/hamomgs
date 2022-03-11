@@ -9,16 +9,6 @@ e atualmente tenho me dedicado a me tornar um dev fullstack.
   - CSS
   - JavaScript
 
-## Alguns fatos sobre mim 👨🏻‍💻
-
-- Amo conhecer coisas novas, trabalhar em grupo e obter novas experiências. 😁
-
-- Almejo trabalhar fora do Brasil, para melhorar meu inglês, conhecer novas culturas, pessoas e ter novas experiências. 🌎
-
-- Meu principal passa tempo atual é jogar Minecraft, amo explorar as infinitas possibilidas dentro do game com command blocks. 🎮
-
-- Sou uma pessoa introvertida, mas apesar das dificultades venho trabalhando a cada dia no meu desenvolvimento pessoal. 🧠
-
 ##
 
 <div align="left">
