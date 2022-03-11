@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Hamom👋
 
 Estudante de Análise e Desenvolvimento de Sistemas pela UNICSUL - Universidade Cruzeiro do Sul, sou fascinado por tecnologia
-e atualmente tenho me dedicado a me tornar um dev fullstack.
+e atualmente tenho me dedicado a me tornar um dev frontend. 
 
 ## Tecnologias que estou estudando atualmente 💻
 
