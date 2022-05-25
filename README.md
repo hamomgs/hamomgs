@@ -1,40 +1,52 @@
-### Olá! Eu sou o Hamom👋
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/88857655/170318063-73a96059-baa3-4765-a97b-df3ad6f4a640.png" />
+</div>
 
-Estudante de Análise e Desenvolvimento de Sistemas pela UNICSUL - Universidade Cruzeiro do Sul, sou fascinado por tecnologia
-e atualmente tenho me dedicado a me tornar um dev frontend. 
+<br>
 
-## Tecnologias que estou estudando atualmente 💻
+- 📚 Graduating in Systems Analysis and Development at [Cruzeiro do Sul University](https://www.cruzeirodosul.edu.br) 
 
-  - HTML
-  - CSS
-  - JavaScript
+- 💻 I’m currently studying on [Vai Na Web](https://www.vainaweb.com.br)
 
-##
+- 🌱 I’m always studying **HTML5, CSS and JavaScript**
 
-<div align="left">
+- ✨ I want to become a Fullstack Developer
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp; -->
+<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
+<!-- ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp; -->
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
+
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+<br>
+
+<div align="center">
   <a href="https://github.com/hamomgs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamomgs&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamomgs&layout=compact&langs_count=7&theme=onedark&"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Hamom-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--   <img align="center" alt="Hamom-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> -->
-<!--   <img align="center" alt="Hamom-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-<!--   <img align="center" alt="Hamom-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Hamom-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> -->
-  <img align="center" alt="Hamom-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hamom-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Hamom-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamomgs&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
+  </a>
 </div>
 
 ##
-
   
-<div>  
+<div align="center">  
   <a href = "https://github.com/hamomgs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:hamomgomer947@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hamomgomer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ![Snake animation](https://github.com/hamomgs/hamomgs/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/hamomgs/hamomgs/blob/output/github-contribution-grid-snake.svg" />
+</div>
