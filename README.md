@@ -4,6 +4,7 @@
 
 <br>
 <!-- - 💻 I’m currently studying on [Vai Na Web](https://www.vainaweb.com.br) -->
+
 - 📚 Graduating in Systems Analysis and Development at [Cruzeiro do Sul University](https://www.cruzeirodosul.edu.br) 
 - 🌱 I’m always studying **HTML5, CSS, JavaScript and ReactJS**
 - 💻 I’m currently studying TypeScript, SASS and NodeJS.
