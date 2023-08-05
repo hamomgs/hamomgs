@@ -9,7 +9,7 @@
 - 🎓 Graduating at Cruzeiro do Sul University on Sistem Analysis.
 - 🌱 I’m always practicing **JavaScript**
 - 💻 I’m currently learning NodeJS and Express.
-- 😄 Pronouns: he/him
+- 🎂 Age: 20 years old
 
 
 ### 🚀 My skills:
