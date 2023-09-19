@@ -82,25 +82,26 @@ My level of actual language experience will always range up, never down.
 
  ### 📭 Contact me
  
-  <div>
-   <a href ="mailto:hamomgomer947@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/hamomgs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+<div>
+  <a href ="mailto:hamomgomer947@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hamomgs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/hamomgs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
 
 ##
  
-  ### 💠 Workspace
+### 💠 Workspace
   
-  <div>
-    <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </div>
+<div>
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%230077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
   
-  #### Operating system (OS):
-  <div>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  </div>
+#### Operating system (OS):
+<div>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c938c&height=120&section=footer"/>
