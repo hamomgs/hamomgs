@@ -23,19 +23,15 @@
 
 🌱 I’m always practicing **JavaScript**.
 
-💻 Currently learning: NodeJS, Express and Java.
+<img align="right" width="180em" alt="Hamom" src="https://github.com/hamomgs/hamomgs/assets/88857655/66b61c9b-cd20-437e-bb1f-e8e62f41629f" />
 
-🔎 I'm also curious about Artificial Intelligence and mobile.
+🔎 I'm also curious about artificial intelligence and mobile development.
 
 ✒️ I enjoy playing with my cats and watching anime in my free time.
-
-<img align="right" width="180em" alt="Hamom" src="https://github.com/hamomgs/hamomgs/assets/88857655/66b61c9b-cd20-437e-bb1f-e8e62f41629f" />
 
 📚 Currently reading: "Comunicação Assertiva" by Camila Bernatti and Andrea Becker.
 
 🎂 Age: 20 years old.
-
-😄 Pronouns: He/Him.
 
 ⚡️ Fun fact: I have 6 cats.
 
