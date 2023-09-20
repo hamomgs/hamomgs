@@ -16,12 +16,14 @@
 
 [![Gráfico de atividade do GitHub do Hamom](https://github-readme-activity-graph.vercel.app/graph?username=hamomgs&bg_color=0D1117&color=2c938c&line=07e9a5&point=ebc104&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**Language:** 
-<kbd title="Switch language">
-  <a href="https://github.com/hamomgs/hamomgs/blob/main/README.md" title="Switch language" target="_blank">
-    <img width="25em" alt="bandeira do reino unido" src="https://i.postimg.cc/wxCLhRYN/download-39.png" />
-  </a>
-</kbd>
+<div>
+  <b>Language:</b>
+  <kbd title="Switch language">
+    <a href="https://github.com/hamomgs/hamomgs/" title="Switch language" target="_blank">
+      <img width="25em" alt="bandeira do reino unido" src="https://i.postimg.cc/wxCLhRYN/download-39.png" />
+    </a>
+  </kbd>
+</div>
 
 ## Sobre mim
 
