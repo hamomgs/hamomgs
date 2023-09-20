@@ -16,12 +16,14 @@
 
 [![Hamom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamomgs&bg_color=0D1117&color=2c938c&line=07e9a5&point=ebc104&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**Idioma:** 
-<kbd title="Trocar idioma">
-  <a href="https://github.com/hamomgs/hamomgs/blob/main/README-ptBR.md" title="Trocar idioma" target="_blank">
-    <img width="25em" alt="bandeira do brasil" src="https://i.postimg.cc/kXW8wM7p/download-38.png" />
-  </a>
-</kbd>
+<div>
+  <b>Idioma:</b>
+  <kbd title="Trocar idioma">
+    <a href="https://github.com/hamomgs/hamomgs/blob/main/README-ptBR.md" title="Trocar idioma" target="_blank">
+      <img width="25em" alt="bandeira do brasil" src="https://i.postimg.cc/kXW8wM7p/download-38.png" />
+    </a>
+  </kbd>
+</div>
 
 ## About me
 
