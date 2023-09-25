@@ -1,7 +1,3 @@
-<!-- <div align="center">
-  <img src="https://user-images.githubusercontent.com/88857655/170327371-1a6ec467-fc49-4874-8444-e86dbf38298b.png" />
-</div> -->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c938c&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=2C938C&center=true&vCenter=true&width=1000&lines=Olá!+%F0%9F%91%8B;Eu+sou+o+Hamom+%3A\);Sou+um+desenvolvedor+de+software+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
@@ -45,17 +41,18 @@
 
 ##
 
-### 🚀 Minhas habilidades:
+### 🚀 Minhas habilidades
 
 <div>
-  <img align="center" alt="Emblema JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img align="center" alt="Emblema React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="Emblema Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="Emblema Postgre" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="Emblema Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img align="center" alt="Emblema CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="Emblema HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="Emblema Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="Emblemba JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img align="center" alt="Emblemba React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Emblemba HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="Emblemba CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="Emblemba Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img align="center" alt="Emblemba Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="Emblemba Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="Emblemba Postgre" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="Emblemba Beekeeper" src="https://img.shields.io/badge/-BEEKEEPER-20232A?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAFNUExURQAAAP%2F%2Fa%2FrXOvPUOejMN%2FjWOvjWOenQOP%2FfPP3VOf%2FnOf%2FxP%2BzSOPzYOvvYOo98IfTTOfjWOvjWOfjWOffWOf%2F%2FR1xQFUc%2BEO7NN%2FjWOvjWOfjWOffWOfjWOf%2FcO5J%2BIvjWOfjWOfjWOffWOfjWOfjWOvfWOfjWOvjWOvnXO%2FnXOvjWOvfWOfjWOfjWOfjWOfjWOfjWOvfWOfjWOfjWOfjWOvfWOfjWOfjWOfnXOjoyDe%2FON%2FvYOvzZOv3aO5WBIjkxDd7AM8esLpJ%2BItC0MPrYOvjWOZaBIzUuDKONJqSOJj83DiQfCJSAIvXTOTcvDM2xL%2FHQOObGNXppHBUTBcCmLO%2FPN%2FrXOvvZOuTFNSokCZqFJJiDIyslCuXGNeXFNbyiKxQRBH5sHefHNX1sHRUSBb%2BlLPTSOI57ISMeCJF9IfTTOXtrHM%2BzMP%2F%2F%2F548sBYAAAA5dFJOUwAAAAAAAAAAAAAAAAAAABqI7eyGGQpYx%2Fv7xlYKNa729qw0KtTSKWH6aPxiK9U3sPf3C1rJ%2FByK7y1GWkAAAAABYktHRG4iD1EXAAAAB3RJTUUH5wkZEwMcxtjpWwAAAJtJREFUCB0FwdtKw0AUQNG9JydOW6wIUgUviOiL4P%2F%2FiC8iiC0iFQURvFBCMse1BDxQ9dMJw0P1irX6rrOVnqk5bXXrtaeq6s%2Fy2QiZqer8o8soQlXVKBnA7vtcVSGACx3Yaw0IyNAeNaGUNtZah%2BGt78dWupPu6KV%2BHbN63Cz%2FcHGj88tXctq1fHJ%2FuFODMTPvq9AtbpXMh9%2BJf7viMqPTlzUXAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIzLTA5LTI1VDE5OjAzOjI4KzAwOjAwxaUCOQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMy0wOS0yNVQxOTowMzoyOCswMDowMLT4uoUAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjMtMDktMjVUMTk6MDM6MjgrMDA6MDDj7ZtaAAAAAElFTkSuQmCC" />
 </div>
 
 ##
