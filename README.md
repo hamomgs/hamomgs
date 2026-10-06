@@ -45,12 +45,6 @@ Tenho interesse principalmente em desenvolvimento de sistemas, automação de pr
   <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamomgs&show_icons=true&count_private=true&hide_border=true&title_color=2c938c&icon_color=2c938c&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" />
-</div>
-
 ## Além do código
 
 Gosto de tecnologia, filmes, séries, animes e jogos. E tenho 6 gatos.
